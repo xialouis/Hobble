@@ -32,7 +32,7 @@
         android:theme="@style/AppTheme" >
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyBB2CWTslaPlyea77veKG-bV6HgsjQH90Y" />
+            android:value="AIzaSyC1G4JEyWMFHL7iiB3aK9R1m_VM9ZW4ivY" />
 
         <activity
             android:name="com.hobble.hobble.MainActivity"
