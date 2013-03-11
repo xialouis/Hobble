@@ -1,0 +1,8 @@
+
+*.class
+
+*.dex
+
+*.java
+
+*.jar
